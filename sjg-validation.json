@@ -1,8 +1,8 @@
 {
-"name":"Ä‚«‹›#8180",
+"name":"ç„¼ãé­š#8180",
 "ticker":"MOEKO",
 "discordId":"400674782544134164",
 "pool-list":"true",
 "poolMetaData":"https://raw.githubusercontent.com/yakisakana/cardano/main/poolMetaData.json",
-"validation":""
+"validation":"https://raw.githubusercontent.com/yakisakana/cardano/main/sjg-validation.json"
 }
