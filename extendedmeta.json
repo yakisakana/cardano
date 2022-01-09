@@ -1,0 +1,18 @@
+{
+ "info": {
+  "url_png_icon_64x64": "https://raw.githubusercontent.com/yakisakana/cardano/main/moeko.png",
+  "url_png_logo": "https://raw.githubusercontent.com/yakisakana/cardano/main/moeko.png",
+  "social": {
+   "twitter_handle": "moekostakepool",
+   "telegram_handle": "",
+   "youtube_handle": "",
+   "facebook_handle": "",
+   "discord_handle": "",
+   "github_handle": ""
+  },
+  "about": {
+   "server": "",
+   "company": ""
+  }
+ }
+}
